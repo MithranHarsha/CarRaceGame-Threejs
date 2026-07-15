@@ -87,16 +87,6 @@ or serve the project using any local web server.
 
 ---
 
-## Technologies Used
-
-- Three.js
-- WebGL
-- JavaScript
-- Webpack
-- GLTFLoader
-
----
-
 ## Screenshots
 
 ### Start Screen
@@ -114,20 +104,6 @@ images/start-screen.png
 ```
 images/gameplay.png
 ```
-
----
-
-## Learning Outcomes
-
-This project demonstrates:
-
-- Real-time 3D rendering
-- Scene creation and management
-- Camera positioning
-- Lighting techniques
-- Loading external GLTF models
-- Interactive keyboard controls
-- Browser-based game development using Three.js
 
 ---
 
